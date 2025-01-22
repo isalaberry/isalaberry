@@ -1,6 +1,6 @@
 ## Oi! Sou a Isabel Salaberry
 Estudante de Engenharia Informática no Instituto Politécnico de Bragança 🇵🇹
-Atualmente terminando a faculdade e procurando emprego na área de frontend
+<br/>Atualmente terminando a faculdade e procurando emprego na área de frontend
 
 Competências
 <br/>-> Base sólida em linguagens: C, JavaScript
