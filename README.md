@@ -14,8 +14,8 @@ Competências
 
 <div>
   <a href="https://github.com/isalaberry">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isalaberry&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalaberry&layout=compact&langs_count=16&theme=material-palenight"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=isalaberry&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalaberry&layout=compact&langs_count=16&theme=material-palenight"/>
   </a>
 </div>
 
