@@ -1,10 +1,10 @@
-## Oi! Sou a Isabel Salaberry
+## Oi! Sou a Isabel Salaberry ✌️
 Estudante de Engenharia Informática no Instituto Politécnico de Bragança 🇵🇹
-<br/>Atualmente terminando a faculdade e procurando emprego na área de frontend
+<br/>Atualmente terminando a faculdade e perseguindo a faixa preta no javascript.
 
 Competências
 <br/>-> Base sólida em linguagens: C, JavaScript
-<br/>-> Conhecimento intermediário em linguagens: Java, Python, C++
+<br/>-> Conhecimento em linguagens Java, Python, C++, SQL
 <br/>-> Proficiência em Programação Orientada a Objetos (OOP) e UML
 
 <br/><br/>
