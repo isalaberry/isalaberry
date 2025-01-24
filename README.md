@@ -26,7 +26,7 @@ Competências
   <img align="center" alt="Rafa-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  ![Snake animation](https://github.com//isalaberry/isalaberry/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/isalaberry/isalaberry/blob/output/github-snake-dark.svg)
 
   <a href="mailto:isabel.irigon01@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
