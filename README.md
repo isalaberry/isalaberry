@@ -9,7 +9,7 @@ Competências
 
 <br/>
 
-  <img alt="isa-gif" height="200" src="https://www.facebook.com/isabelirigonsalaberry/"/>
+  <img alt="isa-gif" height="200" src="https://cdn.discordapp.com/attachments/845086001616912394/1340379707073626192/gifmaker_me.gif?ex=67b22561&is=67b0d3e1&hm=aa7ec92c3bcbbe168acd0f6670e660c1ce7c773cb481216b6ce92cd1c453ed4f&"/>
 
   <a href="mailto:isabel.irigon01@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
