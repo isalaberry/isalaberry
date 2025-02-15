@@ -1,4 +1,4 @@
-## Olá! Sou a Isabel ✌️
+  ## Olá! Sou a Isabel ✌️
 Estudante de Engenharia Informática no Instituto Politécnico de Bragança 🇵🇹
 <br/>Atualmente terminando a faculdade e perseguindo a faixa preta no javascript.
 
@@ -9,7 +9,7 @@ Competências
 
 <br/>
 
-  <img alt="isa-gif" height="200" src="https://x.com/i/status/1890810737498456434"/>
+  <img alt="isa-gif" height="200" src="https://www.facebook.com/isabelirigonsalaberry/"/>
 
   <a href="mailto:isabel.irigon01@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
