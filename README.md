@@ -1,11 +1,11 @@
-  ## Olá! Sou a Isabel ✌️
-Estudante de Engenharia Informática no Instituto Politécnico de Bragança 🇵🇹
-<br/>Atualmente terminando a faculdade e perseguindo a faixa preta no javascript.
+## Hello! I'm Isabel ✌️🇧🇷  
+Computer Engineering student at the Polytechnic Institute of Bragança 🇵🇹  
+<br/>Currently finishing college and chasing the black belt in JavaScript.  
 
-Competências
-<br/>-> Base sólida em linguagens: C, JavaScript
-<br/>-> Conhecimento em linguagens Java, Python, C++, SQL
-<br/>-> Proficiência em Programação Orientada a Objetos (OOP) e UML
+### Skills  
+<br/>-> Strong foundation in languages: C, JavaScript  
+<br/>-> Knowledge of Java, Python, C++, SQL  
+<br/>-> Proficiency in Object-Oriented Programming (OOP) and UML
 
 <br/>
 
