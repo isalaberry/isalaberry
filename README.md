@@ -3,7 +3,7 @@ Computer Engineering student at the Polytechnic Institute of Bragança 🇵🇹
 <br/>Currently finishing college and chasing the black belt in JavaScript.  <br/><br/>
 
 ### Tech skills  
-<br/>-> Strong foundation in JavaScript, React, HTML/CSS, C
+-> Strong foundation in JavaScript, React, HTML/CSS, C
 <br/>-> Knowledge of Java, Python, C++, SQL
 <br/>-> Proficiency in Object-Oriented Programming (OOP) and UML
 
