@@ -1,6 +1,4 @@
 ## Hello! I'm Isabel ✌️🇧🇷  
-Computer Engineering student at the Polytechnic Institute of Bragança 🇵🇹  
-<br/>Currently finishing college and chasing the black belt in JavaScript.  <br/><br/>
 
 ### Tech skills  
 -> Strong foundation in JavaScript, React, HTML/CSS, C
