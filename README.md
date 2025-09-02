@@ -1,8 +1,8 @@
 ## Hello! I'm Isabel ✌️🇧🇷  
 
 ### Tech skills  
--> Strong foundation in JavaScript, React, HTML/CSS, C
-<br/>-> Knowledge of Java, Python, C++, SQL
+-> Strong foundation in JavaScript, React, HTML/CSS, C, Python
+<br/>-> Knowledge of Java, C++, C#, SQL
 <br/>-> Proficiency in Object-Oriented Programming (OOP) and UML
 
 <br/>
